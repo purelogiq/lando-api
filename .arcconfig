@@ -1,4 +1,4 @@
 {
-    "phabricator.uri" : "http://phabricator.test/",
+    "phabricator.uri" : "https://test-qwukxo4kcv26.phacility.com/",
     "repository.callsign": "LANDOAPI"
 }
