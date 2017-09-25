@@ -71,3 +71,4 @@ $ invoke test
 
 test
 test
+test
