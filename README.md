@@ -73,3 +73,4 @@ $ invoke test
 test
 test
 test
+clobber it
